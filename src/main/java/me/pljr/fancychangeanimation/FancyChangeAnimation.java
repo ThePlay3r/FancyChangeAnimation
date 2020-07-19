@@ -11,6 +11,7 @@ public final class FancyChangeAnimation extends JavaPlugin {
     @Override
     public void onEnable() {
         instance = this;
+        setupConfig();
         loadListeners();
     }
 
