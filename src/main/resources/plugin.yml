@@ -1,0 +1,6 @@
+name: FancyChangeAnimation
+version: ${project.version}
+main: me.pljr.fancychangeanimation.FancyChangeAnimation
+api-version: 1.16
+authors: [9hx]
+description: Plugin for fancy animation when gaining XP or Hunger level.
